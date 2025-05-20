@@ -4,10 +4,11 @@ CSTU is a Public University in Chandpur,Bangladesh.
 Today , Our university's Computer and Programming Club arranged an Event which has one Intra university Programming Contest. Whole University's Students participated  in this contest.
 In this contest
 # My team CSTU_UJANI-FulChua accured the place of 1st Runners Up and Our handle is khanshamim8134 
+# 1st Runners Up
 
 Here is the Ranklists -> https://vjudge.net/contest/717968#rank
 
-Price taken from Honorable Vice Chancellor of Chandpur Science and Technology University..
+Gift from Honorable Vice Chancellor of Chandpur Science and Technology University..
 
 ![image alt](https://github.com/khanshamim8134/CSTU-CPC-IUPC-2025/blob/main/WhatsApp%20Image%202025-05-20%20at%2019.56.49_b2f87641.jpg)
 
