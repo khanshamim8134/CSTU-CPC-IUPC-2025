@@ -7,7 +7,7 @@ In this contest
 
 Here is the Ranklists -> https://vjudge.net/contest/717968#rank
 
-![image alt](https://github.com/khanshamim8134/CSTU-CPC-IUPC-2025/blob/main/Screenshot%202025-05-20%20180316.png)
+![image alt](https://github.com/khanshamim8134/CSTU-CPC-IUPC-2025/blob/main/WhatsApp%20Image%202025-05-20%20at%2019.56.49_b2f87641.jpg)
 
 ![image alt](https://github.com/khanshamim8134/CSTU-CPC-IUPC-2025/blob/main/WhatsApp%20Image%202025-05-20%20at%2018.11.58_71ba6615.jpg)
 
