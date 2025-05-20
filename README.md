@@ -7,6 +7,8 @@ In this contest
 
 Here is the Ranklists -> https://vjudge.net/contest/717968#rank
 
+Price taken from Honorable Vice Chancellor of Chandpur Science and Technology University..
+
 ![image alt](https://github.com/khanshamim8134/CSTU-CPC-IUPC-2025/blob/main/WhatsApp%20Image%202025-05-20%20at%2019.56.49_b2f87641.jpg)
 
 ![image alt](https://github.com/khanshamim8134/CSTU-CPC-IUPC-2025/blob/main/WhatsApp%20Image%202025-05-20%20at%2018.11.58_71ba6615.jpg)
